@@ -1,0 +1,16 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+
+# Excel/Office temp files
+~$*.xlsx
+~$*.docx
+
+# Local scratch files
+*.tmp
+*.bak
